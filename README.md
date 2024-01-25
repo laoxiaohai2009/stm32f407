@@ -32,3 +32,4 @@ github: https://github.com/wujique/stm32f407
 技术支持邮箱：code@wujique.com、github@wujique.com
 资料下载：https://pan.baidu.com/s/12o0Vh4Tv4z_O8qh49JwLjg
 QQ群：767214262
+update : 2024-01-25
